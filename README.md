@@ -1,1 +1,1 @@
-# Jatek-oldal-snake
+# Snake-Game
