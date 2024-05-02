@@ -54,7 +54,7 @@ li{
   background: #c81417;
 }
 .play-board .head {
-  background: #41ff47;
+  background: #05f30d;
 }
 .controls {
   display: none;
@@ -101,7 +101,7 @@ body header .fejlec  {
 
   top: 0; /* Align header to the top */
   display: flex;
-  background: rgb(85, 227, 85);
+  background: #519973;
   height: 120px;
   width: 100%; /* Adjust header width to fill the entire viewport */
   align-items: center;
@@ -145,10 +145,14 @@ section {
   font-size: xx-large;
   
   font-style: italic;
-  background: -webkit-linear-gradient(#2ee725, #78d173);
+  background: -webkit-linear-gradient(#519973, #78d173);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   border: 2px dotted;
   border-radius: 10px;
   padding: 10px;
+}
+.fejlec img{
+  height: inherit;
+  align-self: center;
 }
