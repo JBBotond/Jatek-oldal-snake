@@ -22,7 +22,7 @@ li{
 .wrapper {
   width: 65vmin;
   height: 70vmin;
-  
+  display: flex;
   overflow: hidden;
   flex-direction: column;
   justify-content: center;
